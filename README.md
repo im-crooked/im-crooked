@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sanjay
 - 👀 I’m interested in ...Solving real-world problems and Developing
-- 🌱 I’m currently learning ... React and Digital Marketing
 - 💞️ I’m looking to collaborate on ...Full satck projects
 - 📫 How to reach me ...mundesanjay04@gmail.com
 
